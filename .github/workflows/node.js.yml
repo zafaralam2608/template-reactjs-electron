@@ -28,10 +28,10 @@ jobs:
       - name: Install and Build
         run: |
           npm ci
-          npm run build
+          npm run make
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
           branch: prod
-          folder: build
+          folder: out/make
