@@ -8,6 +8,7 @@
     "name": "Md Zafar Alam",
     "email": "zafaralam2608@gmail.com"
   },
+  "license": "Apache",
   "main": ".webpack/main",
   "dependencies": {
     "@emotion/styled": "^11.10.4",

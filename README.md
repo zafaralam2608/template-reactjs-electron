@@ -1,4 +1,4 @@
-# Template React JS
+# Template React JS - Electron
 
 ## About the project
 
@@ -11,9 +11,14 @@ Template for ReactJS project with Electron.
 * [Redux toolkit](https://redux-toolkit.js.org/)
 * [React Router](https://reactrouter.com/docs/en/v6)
 * [Axios](https://axios-http.com/docs/intro)
+* [Electron](https://www.electronjs.org/)
 
 ### Code check and styling
 [ES Lint](https://eslint.org/)
+
+### Bundle and packaging
+[Electron Forge](https://www.electronforge.io/)
+[Webpack](https://webpack.js.org/)
 
 ## Installation
 Use the below commands to launch the app
